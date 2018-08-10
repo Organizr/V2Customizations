@@ -17,3 +17,12 @@ Brings the Plex-feel to organizr
 
 Makes the [Monitorr](https://github.com/Monitorr/Monitorr)-[integration](https://github.com/Monitorr/Monitorr/wiki/05-Integration:--Organizr) fit in better with Organizr  
 [gilbN/MonitOrg](https://github.com/gilbN/MonitOrg)
+
+---
+
+## GrafOrg
+
+![Image](Images/GrafOrg.jpg)
+
+Custom [Grafana](https://github.com/grafana/grafana) CSS for [Organizr](https://github.com/causefx/Organizr) homepage integration. Does also come with a Grafana Plex theme.  
+[gilbN/GrafOrg](https://github.com/gilbN/GrafOrg)
