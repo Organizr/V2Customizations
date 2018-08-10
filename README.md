@@ -24,7 +24,5 @@ Makes the [Monitorr](https://github.com/Monitorr/Monitorr)-[integration](https:/
 
 ![Image](Images/GrafOrg.jpg)
 
-Custom [Grafana](https://github.com/grafana/grafana) CSS for [Organizr](https://github.com/causefx/Organizr) homepage integration. Does also come with a Grafana Plex theme.
-
+Custom [Grafana](https://github.com/grafana/grafana) CSS for [Organizr](https://github.com/causefx/Organizr) homepage integration. Does also come with a Grafana Plex theme.  
 [gilbN/GrafOrg](https://github.com/gilbN/GrafOrg)
-
