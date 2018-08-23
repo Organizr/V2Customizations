@@ -11,18 +11,21 @@ Brings the Plex-feel to organizr
 
 ---
 
-## MonitOrg
+## theme.park
 
-![Image](Images/MonitOrg.jpg)
+A collection of themes/skins for use in conjunction with [Organizr](https://github.com/causefx/Organizr)
 
-Makes the [Monitorr](https://github.com/Monitorr/Monitorr)-[integration](https://github.com/Monitorr/Monitorr/wiki/05-Integration:--Organizr) fit in better with Organizr  
-[gilbN/MonitOrg](https://github.com/gilbN/MonitOrg)
+[gilbN/theme.park](https://github.com/gilbN/theme.park)
 
----
-
-## GrafOrg
-
+#### [MonitOrg](https://github.com/gilbN/theme.park#monitorg) - Custom Monitorr CSS for Organizr homepage integration.
+![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/monitorg/1-flat.jpg)
+ 
+#### [GrafOrg](https://github.com/gilbN/theme.park#graforg) - Custom Grafana CSS for Organizr homepage integration and consistent UI. 
 ![Image](Images/GrafOrg.jpg)
 
-Custom [Grafana](https://github.com/grafana/grafana) CSS for [Organizr](https://github.com/causefx/Organizr) homepage integration. Does also come with a Grafana Plex theme.  
-[gilbN/GrafOrg](https://github.com/gilbN/GrafOrg)
+#### [OrgArr](https://github.com/gilbN/theme.park#orgarr) - Custom Sonarr/Radarr/Lidarr CSS for consistent UI in Organizr 
+![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/orgarr/2.jpg)
+
+#### [NetOrg](https://github.com/gilbN/theme.park#netorg) - Custom Netdata CSS for consistent UI in Organizr
+![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/netorg/2.jpg)
+
