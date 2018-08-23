@@ -17,15 +17,15 @@ A collection of themes/skins for use in conjunction with [Organizr](https://gith
 
 [gilbN/theme.park](https://github.com/gilbN/theme.park)
 
-##### MonitOrg
+##### MonitOrg - Custom Monitorr CSS for Organizr homepage integration.
 ![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/monitorg/1-flat.jpg)
  
-##### GrafOrg
+##### GrafOrg - Custom Grafana CSS for Organizr homepage integration and consistent UI. 
 ![Image](Images/GrafOrg.jpg)
 
-##### OrgArr
+##### OrgArr - Custom Sonarr/Radarr/Lidarr CSS for consistent UI in Organizr 
 ![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/orgarr/2.jpg)
 
-##### NetOrg
+##### NetOrg - Custom Netdata CSS
 ![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/netorg/2.jpg)
 
