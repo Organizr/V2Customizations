@@ -18,14 +18,14 @@ A collection of themes/skins for use in conjunction with [Organizr](https://gith
 [gilbN/theme.park](https://github.com/gilbN/theme.park)
 
 ##### MonitOrg
-![Image](Images/MonitOrg.jpg)
+![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/monitorg/1-flat.jpg)
  
 ##### GrafOrg
 ![Image](Images/GrafOrg.jpg)
 
 ##### OrgArr
-![Image](Images/OrgArr.jpg)
+![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/orgarr/2.jpg)
 
 ##### NetOrg
-![Image](Images/NetOrg.jpg)
+![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/netorg/2.jpg)
 
