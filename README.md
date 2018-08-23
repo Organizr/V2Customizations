@@ -26,6 +26,6 @@ A collection of themes/skins for use in conjunction with [Organizr](https://gith
 ##### OrgArr - Custom Sonarr/Radarr/Lidarr CSS for consistent UI in Organizr 
 ![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/orgarr/2.jpg)
 
-##### NetOrg - Custom Netdata CSS
+##### NetOrg - Custom Netdata CSS for consistent UI in Organizr
 ![Image](https://raw.githubusercontent.com/gilbN/theme.park/master/Screenshots/netorg/2.jpg)
 
