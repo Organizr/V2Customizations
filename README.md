@@ -11,18 +11,21 @@ Brings the Plex-feel to organizr
 
 ---
 
-## MonitOrg
+## theme.park
 
+A collection of themes/skins for use in conjunction with [Organizr](https://github.com/causefx/Organizr)
+
+[gilbN/theme.park](https://github.com/gilbN/theme.park)
+
+##### MonitOrg
 ![Image](Images/MonitOrg.jpg)
-
-Makes the [Monitorr](https://github.com/Monitorr/Monitorr)-[integration](https://github.com/Monitorr/Monitorr/wiki/05-Integration:--Organizr) fit in better with Organizr  
-[gilbN/MonitOrg](https://github.com/gilbN/MonitOrg)
-
----
-
-## GrafOrg
-
+ 
+##### GrafOrg
 ![Image](Images/GrafOrg.jpg)
 
-Custom [Grafana](https://github.com/grafana/grafana) CSS for [Organizr](https://github.com/causefx/Organizr) homepage integration. Does also come with a Grafana Plex theme.  
-[gilbN/GrafOrg](https://github.com/gilbN/GrafOrg)
+##### OrgArr
+![Image](Images/OrgArr.jpg)
+
+##### NetOrg
+![Image](Images/NetOrg.jpg)
+
