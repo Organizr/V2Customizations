@@ -6,7 +6,14 @@ A repo for collecting customizations that works with Organizr V2
 ![Image](https://github.com/jigahertz/orgv2_custom_buttons/raw/master/screen_shots/plex_theme.PNG)
 Custom buttons for your OrgV2 homepage
 
-[jigahertz/orgv2_custom_buttons](https://github.com/jigahertz/orgv2_custom_buttons)
+[organizrTools/orgv2_custom_buttons](https://github.com/organizrTools/orgv2_custom_buttons)
+
+---
+## Custom link to tab
+![Image](https://i.imgur.com/n98qa6b.png)
+```
+<a onclick="tabActions(event,'TAB NAME',1);" href="#">CUSTOM LINK TEXT</a>
+```
 
 ---
 ## PlexTheme
